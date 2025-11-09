@@ -1,6 +1,6 @@
 # Bigger is Better? Investigating Neural Scaling Laws
 
-![Project Poster](poster.jpg)
+![Project Poster](Poster.png)
 
 ## 📌 Overview
 This project empirically verifies **Neural Scaling Laws**—the observation that deep learning model performance improves predictably with increased resources. Using a controlled environment (MNIST dataset and MLP architectures), I independently isolated and tested two critical scaling factors:
